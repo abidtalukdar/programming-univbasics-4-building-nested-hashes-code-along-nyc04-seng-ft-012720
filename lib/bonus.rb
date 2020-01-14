@@ -8,7 +8,7 @@ def bonus
          {name: "Benvolio", age: "17", attitude: "worried"},
          {name: "Steven", age: "30", attitude: "confused"}
       ]
-   }, 
+    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
@@ -17,11 +17,11 @@ def bonus
           {name: "Mercutio", age: "18", attitude: "hot-headed"}, 
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
-   }
+    }
   }
 
   #code your solution here:
-
+  
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
